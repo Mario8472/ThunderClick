@@ -1,0 +1,14 @@
+AS3935.c:30:16:Read_Address	24	static
+AS3935.c:43:16:AS3935_Read	24	static
+AS3935.c:63:6:AS3935_Write	16	static
+AS3935.c:75:6:Set_WatchDogThreshold	24	static
+AS3935.c:89:6:Set_NoiseFloorLevel	24	static
+AS3935.c:103:6:Set_SpikeRejection	24	static
+AS3935.c:119:6:Set_AFEGainBoost	24	static
+AS3935.c:133:6:Set_MinimumNumberOfLightning	24	static
+AS3935.c:147:6:Set_FreqDivision	24	static
+AS3935.c:161:6:PowerDownMode	24	static
+AS3935.c:177:9:AS3935_ReadIntStat	24	static
+AS3935.c:191:9:Get_Distance	24	static
+AS3935.c:204:6:AS3935_Init	16	static
+AS3935.c:219:6:AS3935_To_UART	80	static
